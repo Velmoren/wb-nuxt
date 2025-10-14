@@ -14,5 +14,5 @@ export default defineNuxtConfig({
         { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap' }
       ],
     },
-  },
+  }
 })
